@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/raw/main/app-release.apk",
-  "releaseNotes": "• Added new UI\n• Fixed payment bugs"
+  "version": "1.0.0+1",
+  "buildNumber": 1,
+  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/v1.0.0/app-release.apk",
+  "notes": "First official release of Lassi Lounge! Enjoy our premium dining and delivery experience."
 }
