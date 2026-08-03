@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0+1",
-  "buildNumber": 1,
-  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.0.0/app-release.apk",
-  "notes": "First official release of Lassi Lounge! Enjoy our premium dining and delivery experience."
+  "version": "1.0.0+2",
+  "buildNumber": 2,
+  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.0.0%2B2/app-release.apk",
+  "notes": "🚀 Lassi Lounge is now faster, smarter, and more rewarding!\n\n✨ What's New:\n- 🎁 Introducing Lassi Lounge Club: Earn loyalty points on every order and redeem them for exclusive discounts!\n- ⚡ Premium Skeleton Loading: Enjoy a smoother, lightning-fast app loading experience.\n- 🎟️ Interactive Offers: Tap to easily copy promo codes right from the home screen.\n- 🤝 Refer & Earn: Easily invite friends from the Offers page.\n\n🔧 Improvements & Fixes:\n- 📡 Smart Offline Banner: App now elegantly handles weak internet connections.\n- ⏱️ Auto-Resolution: Stuck orders are now automatically cancelled and refunded if the restaurant is too busy, ensuring you never lose your money.\n- 🧭 Improved navigation for a seamless browsing experience."
 }
