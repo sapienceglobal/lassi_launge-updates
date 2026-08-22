@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0+2005",
-  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.2.0%2B2005/lassi-lounge.apk",
-  "notes": "🚀 Lassi Lounge is now faster, smarter, and more rewarding!\n\n✨ What's New:\n- 🔔 Exciting New Push Notifications: Stay updated with your orders and our latest offers!\n- 🎨 Enhanced Notification UI\n- 🐛 General bug fixes and performance improvements"
+  "version": "1.3.0+2006",
+  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.3.0%2B2006/lassi-lounge.apk",
+  "notes": "🚀 Lassi Lounge just got even better!\n\n✨ What's New in this update:\n- 🖼️ Dynamic 'About Us' Page: Now synced with live CMS updates.\n- 📱 UI Improvements: Better spacing and support for Android system navigation bars.\n- 💳 Payment Ready: Upgraded to secure, production-ready payments.\n- 🔒 Enhanced Security: Smarter auto-logout and session management.\n- 🐛 Minor bug fixes and performance improvements for a smoother experience."
 }
