@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0+2007",
-  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.3.0%2B2007/lassi-lounge.apk",
-  "notes": "🚀 Lassi Lounge just got even better!\n\n✨ What's New in this update:\n- 🎁 Personalized Offers: Special targeted promo codes now appear directly in your Offers screen.\n- 📜 Transparent Policies: Added a dedicated Terms & Refund Policy screen for better clarity at checkout.\n- 🛠️ UI Enhancements: Fixed layout issues on the checkout screen and improved offer descriptions to prevent text clipping.\n- 🎧 Quick Support: The Support button at checkout now directly connects you to our Help Center.\n- 🐛 Minor bug fixes and performance improvements for a smoother ordering experience."
+  "version": "1.3.1+2008",
+  "apkUrl": "https://github.com/sapienceglobal/lassi_launge-updates/releases/download/1.3.1%2B2008/lassi-lounge.apk",
+  "notes": "🚀 Lassi Lounge just got even better!\n\n✨ What's New in this update:\n- 🎁 Personalized Offers: Special targeted promo codes now appear directly in your Offers screen.\n- 📜 Transparent Policies: Added a dedicated Terms & Refund Policy screen for better clarity at checkout.\n- 🛍️ Cart & Checkout Upgrades: Added a clearer breakdown of fees with interactive info tooltips on both Cart and Checkout screens.\n- 📱 Smarter Contact Validation: Your phone number is now intelligently validated based on your selected country code during checkout.\n- 🔙 Smoother Navigation: Added a back button on the Cart screen and linked the Item Details directly to the cart for a seamless experience.\n- 🎧 Quick Support: The Support button at checkout now directly connects you to our Help Center.\n- 🐛 Minor bug fixes and performance improvements for a smoother ordering experience."
 }
